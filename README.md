@@ -1,2 +1,2 @@
 # Air-Canvas
- Computer vision project 
+ OpenCV computer vision project to draw on canvas through movements in air.
